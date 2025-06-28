@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanish+Hrk!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,19 +70,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tanish-hrk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:tanish@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://twitter.com/tanish_hrk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+  <a href="hrktanish05@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+<!--   <a href="https://twitter.com/tanish_hrk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a> -->
 </p>
 
 ---
 
-### 🧠 Currently Working On
-
-- 📦 Real-time collaboration tool
-- 🌐 Backend system with role-based access
-- ☁️ Kubernetes deployments and GitHub Actions
-
----
 
 ### 📍 Visitor Count
 
