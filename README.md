@@ -43,59 +43,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔧 Tools & Services
-
-- CI/CD: GitHub Actions, Travis CI
-- Testing: Jest, Mocha, PyTest
-- Monitoring: Prometheus, Grafana
-- Containerization: Docker, Kubernetes
-- Infra: AWS (EC2, S3, Lambda)
-- Communication: Slack, Discord
 
 ---
 
-## 📂 Featured Projects
 
-### • **Project-One**
-Full-stack platform for X using React & Node.js, deployed with Docker + Kubernetes.
-
-### • **Awesome-API**
-High-performance microservices architecture using Flask and MongoDB.
-
-### • **DevOps-Toolkit**
-Scripts for infra automation, CI/CD pipelines, and deployment monitoring.
-
----
 
 ## 📫 Contact
 
 - GitHub: [@tanish-hrk](https://github.com/tanish-hrk)
 - LinkedIn: linkedin.com/in/tanish-hrk
-- Twitter/X: [@tanish_hrk](https://twitter.com/tanish_hrk)
-- Email: tanish.hrk@example.com
+- Email: hrktanihs05@gmail.com
 
----
-
-## 🏆 GitHub Profile Badges
-
-I’m showcasing GitHub trophies and ranking badges using the popular “GitHub Profile Trophy” tool: ranks go from `C` → `B` → `A` → `AA` → `AAA` → `S` → `SS` → `SSS`. Learn more here: :contentReference[oaicite:2]{index=2}
-
----
-
-## 🌟 Badge Best Practices
-
-- Use Shields.io to generate dynamic, clickable markdown badges:contentReference[oaicite:3]{index=3}
-- Select relevant badges (e.g. build passing, coverage, license):contentReference[oaicite:4]{index=4}
-- Group and format them neatly at the top for maximum impact
-
----
-
-## 🎯 What’s Next?
-
-- Contribute more to open source (target: 200+ contributions 🏁)
-- Build scalable microservices with full CI/CD
-- Learn advanced cloud-native patterns on AWS & Kubernetes
-
----
-
-Thanks for stopping by! Feel free to connect or collaborate 😊
