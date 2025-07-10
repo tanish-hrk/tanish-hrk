@@ -48,6 +48,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&title=Stars,Followers,Repositories,Commits" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanish-hrk/tanish-hrk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 ---
 
 ### 📫 Connect with Me
