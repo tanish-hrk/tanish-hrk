@@ -22,11 +22,11 @@
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git" />
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,cursor" />
 </p>
 
 ---
