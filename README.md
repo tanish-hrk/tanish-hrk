@@ -42,10 +42,8 @@
 
 ### 🏆 GitHub Trophies
 
-<p display="flex">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&title=Stars,Followers,Repositories,Commits" />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=tanish-hrk" />
-
 </p>
 
 ---
