@@ -42,8 +42,10 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<p display="flex">
   <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&title=Stars,Followers,Repositories,Commits" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tanish-hrk" />
+
 </p>
 
 ---
@@ -51,7 +53,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tanish-hrk)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tanish-hrk" />
 </p>
 
 ---
