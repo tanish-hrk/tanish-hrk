@@ -1,16 +1,26 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Developer+%F0%9F%9A%80;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 Who Am I?
 
-- 🎓 B.Tech CSE @ GLA University  
-- 🛠️ Backend & Full Stack Enthusiast  
-- 🚀 Focused on building scalable systems  
-- 🧠 Exploring DevOps, Cloud, and Open Source
+```js
+const tanishHRK = {
+  university: "GLA University",
+  title: "Full Stack | Backend Engineer",
+  currentFocus: ["Docker", "DevOps", "Cloud", "AI Tools"],
+  techStack: ["React", "Spring Boot", "Node.js", "MongoDB", "TailwindCSS"],
+  loves: ["Clean Code", "Open Source", "Learning New Things"],
+  resume: "Open to SDE Roles 🔍"
+};
+```
 
 ---
 
