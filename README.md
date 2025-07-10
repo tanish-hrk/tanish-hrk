@@ -1,9 +1,7 @@
 <!-- Profile Banner -->
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Developer+%F0%9F%9A%80;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
+</p><p align="right">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px" />
 </p>
 
@@ -26,7 +24,7 @@ const tanishHRK = {
 
 ### 🛠 Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css" /> <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux" /> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" /> <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" /> <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css" /> <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux" /> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" /> <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github" /> <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /> </p> <p align="right"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> </p>
 
 ---
 
