@@ -48,11 +48,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&title=Stars,Followers,Repositories,Commits" />
 </p>
 
-<picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanish-hrk/tanish-hrk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanish-hrk/tanish-hrk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanish-hrk/tanish-hrk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tanish-hrk/tanish-hrk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</p>
+
 
 
 
