@@ -51,7 +51,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanish-hrk)](https://git.io/streak-stats)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tanish-hrk)" />
 </p>
 
 ---
