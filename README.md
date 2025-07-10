@@ -1,7 +1,8 @@
 <!-- Banner -->
-<p display="grid">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px" />
+<p display="grid" gp="10px">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px" />
+
 </p>
 
 ---
