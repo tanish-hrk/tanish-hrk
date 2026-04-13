@@ -1,52 +1,60 @@
-<!-- Banner -->
-<p display="grid" gp="10px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px" />
+<p align="center">
+  <img src="assets/banner.png" alt="Tanish HRK Banner" width="100%">
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🚀 <i>Transforming complex problems into elegant, scalable solutions.</i>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20GLA%20University-blue?style=flat-square&logo=read-the-docs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full%20Stack-orange?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-DevOps%20%26%20Cloud-green?style=flat-square&logo=google-cloud&logoColor=white" />
+</div>
+
+---
+
+### 🛠️ Tech Ecosystem
+
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" /><br><br>
+  <b>Frontend & Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux" /><br><br>
+  <b>Backend & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,linux" /><br><br>
+  <b>Tools & Workflow</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,figma,postman" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 B.Tech CSE @ GLA University  
-- 🛠️ Backend & Full Stack Enthusiast  
-- 🚀 Focused on building scalable systems  
-- 🧠 Exploring DevOps, Cloud, and Open Source
-
----
-
-### 🛠 Tech Stack
+### 📊 Performance Metrics
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java" />
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=github,vscode,cursor" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-hrk&theme=radical" height="170" />
+</p>
+
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievement Hall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&title=Stars,Followers,Repositories,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&column=4&margin-w=15" />
 </p>
+
+---
+
+### 🐍 The Code Snake
 
 <p align="center">
   <picture>
@@ -56,19 +64,16 @@
   </picture>
 </p>
 
-
-
-
-
-
 ---
 
-### 📫 Connect with Me
-  <a href="https://linkedin.com/in/tanish-hrk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="hrktanish05@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-<!--   <a href="https://twitter.com/tanish_hrk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a> -->
+### 📫 Connect & Collaborate
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/tanish-hrk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hrktanish05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tanish-hrk.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
 
-### 📍 Visitor Count
-  <img src="https://komarev.com/ghpvc/?username=tanish-hrk&label=Profile%20Views&color=brightgreen&style=flat" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanish-hrk&label=Profile%20Views&color=blue&style=flat-square" /> 
+</p>
