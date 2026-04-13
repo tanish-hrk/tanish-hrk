@@ -49,8 +49,8 @@
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" height="140" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" height="140" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" />
 </p>
 
 <!-- <p align="center">
