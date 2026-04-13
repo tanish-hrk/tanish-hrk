@@ -31,21 +31,21 @@
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical" height="170" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-hrk&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-hrk&theme=radical&hide_border=true&background=060e20&stroke=8ff5ff&ring=8ff5ff&fire=8ff5ff&active_color=8ff5ff" />
 </p>
 
 ---
 
 ### 🏆 Achievement Hall
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&column=4&margin-w=15" />
+ <a href="https://github.com/tanish-hrk">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&column=4&margin-w=15" alt="Trophies fallback will work once Vercel is back, currently using Metrics as backup." />
+  </a>
 </p>
 
 ---
