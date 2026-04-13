@@ -24,7 +24,7 @@
   <b>Backend & Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,linux" /><br><br>
   <b>Tools & Workflow</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,figma,postman" />
 </p>
 
 ---
