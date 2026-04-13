@@ -16,17 +16,35 @@
 
 ### 🛠️ Tech Ecosystem
 
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" /><br><br>
-  <b>Frontend & Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,spring" /><br><br>
-  <b>Backend & Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,linux" /><br><br>
-  <b>Tools & Workflow</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,figma,postman" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+      <b>Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" />
+    </td>
+    <td align="center" width="10%">
+      <!-- Vertical Separator -->
+      <b>|</b>
+    </td>
+    <td align="center" width="45%">
+      <b>Frontend & Frameworks</b><br>
+      <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,spring" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <b>Backend & Infrastructure</b><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,linux" />
+    </td>
+    <td align="center" width="10%">
+      <b>|</b>
+    </td>
+    <td align="center" width="45%">
+      <b>Tools & Workflow</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,figma,postman" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 Performance Metrics
@@ -39,14 +57,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-hrk&theme=radical&hide_border=true&background=060e20&stroke=8ff5ff&ring=8ff5ff&fire=8ff5ff&active_color=8ff5ff" />
 </p> -->
 
+<!--
 ---
 
 ### 🏆 Achievement Hall
-<p align="center">
+ <p align="center">
  <a href="https://github.com/tanish-hrk">
     <img src="https://github-profile-trophy.vercel.app/?username=tanish-hrk&theme=monokai&no-frame=true&column=4&margin-w=15" alt="Trophies fallback will work once Vercel is back, currently using Metrics as backup." />
   </a>
-</p>
+</p> -->
 
 ---
 
