@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Tanish HRK Banner" width="100%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TANISH+HRK!;Full-Stack+Web+Developer;Backend+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
@@ -24,7 +20,7 @@
   <b>Languages</b><br>
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" /><br><br>
   <b>Frontend & Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,spring" /><br><br>
   <b>Backend & Infrastructure</b><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,linux" /><br><br>
   <b>Tools & Workflow</b><br>
