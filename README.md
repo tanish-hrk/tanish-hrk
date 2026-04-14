@@ -49,8 +49,16 @@
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff" height="160" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=4c71f2" height="160" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanish-hrk&show_icons=true&theme=default&hide_border=true" height="160" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=radical&hide_border=true&bg_color=060e20&title_color=8ff5ff&text_color=dee5ff&icon_color=8ff5ff"  />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=4c71f2" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanish-hrk&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <!-- <p align="center">
